@@ -1,0 +1,34 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go related
+*.log
+*.test
+*.prof
+
+# Testing
+*.tmp
+*.out
+
+# Dependency directories
+/bin/
+/vendor/
+/go.sum
+/Godeps/
+
+# IDE files
+.idea/
+.vscode/
+
+# Compiled Go binary
+main
+
+# Application binaries
+/app
+
+# Output of go tooling
+/pkg/
+/obj/
