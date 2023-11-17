@@ -26,9 +26,6 @@
 # Compiled Go binary
 main
 
-# Application binaries
-/app
-
 # Output of go tooling
 /pkg/
 /obj/
