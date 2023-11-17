@@ -9,6 +9,6 @@ func InitServer() {
 	r := &router.Router{}
 	r.InitRouter()
 	routes.RegisterRoutes(r)
-	r.Run(":9000")
+	r.Run(":5000")
 
 }

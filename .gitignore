@@ -29,3 +29,4 @@ main
 # Output of go tooling
 /pkg/
 /obj/
+.env
