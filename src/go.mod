@@ -1,4 +1,4 @@
-module app
+module gordo
 
 go 1.19
 
